@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+
+}
+
+.sub_con {
+  width: 31%;
+  background-color: rgb(220, 214, 214);
+  margin-left: 31rem;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.field {
+
+  padding: 2rem;
+  text-align: inherit;
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  width: 43%;
+  height: 33px;
+}
+
+label {
+  font-size: 21px;
+  letter-spacing: 1px;
+}
+
+input {
+  height: 31px;
+  width: 42%;
+  padding-left: 12px;
+  border-radius: 9px;
+  border: 2px solid black;
+}
+
+select {
+  padding: 6px;
+  width: 47%;
+  height: 39px;
+  border-radius: 9px;
+  border: 2px solid black;
+}
+
+.rd_btn {
+  height: 20px;
+}
+.btnn{
+  width: 30%;
+  margin-left: 10rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border: 2px solid;
+  padding-top: 7px;
+  padding-bottom: 6px;
+  font-size: medium;
+  border-radius: 11px;
+  background-color: white;
+  padding-left: 1px;
+  font-weight: 600;
+
+}
+span{
+  color: rgb(250, 109, 109);
+  margin-top: 1rem;
+  padding-left: 1rem;
+  line-height: 14px;
+}
